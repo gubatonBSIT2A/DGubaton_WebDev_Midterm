@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+.up{
+  float:right;
+}
+.up a{
+  margin:10px;
+  color:#000;
+  text-decoration: none;
+}
+.up img{
+ margin:5px;
+ width:15px;
+ height:15px;
+}
+.logo img{
+  display:block;
+   margin-left: auto;
+  margin-right: auto;
+}
+.main{
+  text-align:center;
+  }
+.search input{
+  width:50%;
+  padding:10px 10px;
+  display: inline-block;
+}

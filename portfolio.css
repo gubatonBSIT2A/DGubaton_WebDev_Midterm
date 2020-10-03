@@ -1,0 +1,48 @@
+body{
+  background-color:#81ecec;
+}
+.title h1, .title p{
+  margin:auto;
+  color:#34495e;
+  float:right;
+}
+.title h1{
+   font-family: fantasy;
+  font-size:100px;
+}
+.title p{
+font-size:70px;
+}
+.desr p{
+  font-size:40px;
+}
+.desr b{
+  font-size:60px;
+}
+.work1 img{
+  width:400px;
+  height:300px;
+}
+.work2 img{
+  width:400px;
+  height:300px;
+}.work3 img{
+  width:400px;
+  height:300px;
+}
+.work4 img{
+  width:400px;
+  height:400px;
+}
+.work5 img{
+  width:400px;
+  height:400px;
+}
+.work6 img{
+  width:400px;
+  height:400px
+}
+.work7 img{
+  width:400px;
+  height:400px;
+}

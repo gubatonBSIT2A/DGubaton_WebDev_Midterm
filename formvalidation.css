@@ -1,7 +1,10 @@
 .bruh{
   border-top: 9px solid #A91C27;
   background-color: #FF0F3F;
-  padding: 15px 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 400px;
+  margin-left: 400px;
 }
 .bruh td{
  font-family: Tahoma, Geneva, sans-serif;
@@ -18,4 +21,10 @@ text-transform: none;
 .bruh table{
   margin-left: auto;
   margin-right: auto;
+}
+h2{
+  text-align: center;
+}
+p{
+text-align: center;
 }

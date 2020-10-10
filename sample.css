@@ -1,0 +1,27 @@
+.title{
+  border-bottom: 1px solid #ccc;
+  padding-bottom:20px;
+  background-color:#778ca3;
+  position: sticky;
+  top: 0;
+}
+
+.over{
+  border: 0 none #ccc;
+  border:1px;
+  border-top:solid;
+  border-bottom:solid;
+  padding-top:1px;
+}
+.about{
+  border:1px;
+  border-top:solid;
+  border-bottom:solid;
+  padding-top:1px;
+}
+.creator{
+  border:1px;
+  border-top:solid;
+  border-bottom:solid;
+  padding-top:1px;
+}
